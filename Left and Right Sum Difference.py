@@ -19,3 +19,4 @@ class Solution(object):
             leftSum += num
             
         return answer
+
